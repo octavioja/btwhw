@@ -1,0 +1,22 @@
+
+svg {
+    background-color: rgb(127, 182, 255);
+    position: sticky;
+    
+}
+ body {
+    background-color: aquamarine;
+ }   
+    
+    h1 {
+    text-align: center;
+
+}
+h2, p2 {
+    text-align: right;
+}
+p1 {
+    text-align: right;
+    flex: 1;
+    position: absolute;
+}
